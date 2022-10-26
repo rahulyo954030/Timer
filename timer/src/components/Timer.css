@@ -1,0 +1,26 @@
+.container{
+    justify-content: center;
+    text-align: center;
+}
+.timer{
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(20, 107, 78);
+    padding-top: 2%;
+    width: 100%;
+    justify-content: center;
+    border-radius: 12px;
+}
+button{
+    padding: 2% 4%;
+    margin: 5%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+button:hover{
+  background-color: rgb(14, 15, 15);
+}
